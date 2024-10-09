@@ -44,7 +44,7 @@ pada soal yg kedua, kalian harus belajar method `split` secara mandiri, pada soa
 let input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
 
 function dataHandling(input) {
-
+    input.splice()
 }
 
 dataHandling2(input);
